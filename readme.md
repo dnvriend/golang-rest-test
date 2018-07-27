@@ -1,5 +1,6 @@
 # golang-rest-test
-A small study project on Golang with the gorilla/mux router
+A small study project on [Go programming language](https://golang.org/) with
+the [gorilla/mux](http://www.gorillatoolkit.org/pkg/mux) router.
 
 ## How to install
 With a correctly configured Go toolchain, navigate to your $GOPATH root folder, most often `~/go`, and type:
